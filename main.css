@@ -1,0 +1,46 @@
+body {
+    font-size: 27px;
+}
+
+p {
+    width: 65%;
+}
+
+.container {
+    width: 30%;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+form ul{
+    padding-left: 0;
+    list-style: none;
+}
+
+form ul li input {
+    width: 60%;
+    font-size: 17px;
+}
+
+form li{
+    width: 60%;
+}
+
+button {
+    width: 100%;
+    font-size: 17px;
+}
+
+#mensagem {
+    display: block;
+}
+
+#mensagem.erro{
+    color:red;
+    font-size: 16px;
+}
+
+#mensagem.correto{
+    color:green;
+    font-size: 16px;
+}
